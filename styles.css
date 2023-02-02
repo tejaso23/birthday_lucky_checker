@@ -1,0 +1,59 @@
+*{
+   margin: 0;
+   padding: 0;
+  background-color: black;
+   
+}
+
+h1{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#date-input{
+
+    color: aqua;
+    border: 2px solid aquamarine;
+   margin-left: 45%;
+   margin-bottom: 20px;
+   padding: 10px;
+}
+#lucky-input{
+
+    color: aqua;
+    border: 2px solid aquamarine;
+   margin-left: 43%;
+   margin-bottom: 20px;
+   padding: 10px;
+}
+button{
+    color: aqua;
+    border: 2px solid aquamarine;
+    display: flex;
+    justify-content: center;
+    margin-left: 48%;
+    padding: 10px;
+}
+
+label{
+    color: aqua;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    font-size:larger;
+}
+
+div{
+    width: 10vw;
+    height: 10vh;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 5px;
+    border: 2px solid aqua;
+}
